@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name Pin_Headers_2mm)(type KiCad)(uri "$(KIPRJMOD)/Pin_Headers_2mm.pretty")(options "")(descr ""))
+)
