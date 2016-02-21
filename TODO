@@ -1,5 +1,11 @@
 TODO: Need to double check spacing and drill values, before gerbers
 
+TODO: review for noise
+* Currently a 4 layer board to hopefully reduce amount of crosstalk where
+  traces overlap or cross each other.
+* while it may be as it is, it is not 100% symmetrical, and the traces
+  in some quadrants overlap more than others, should this be improved?
+
 ----------------------------
 2mm part from here:
 
