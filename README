@@ -1,0 +1,11 @@
+# breadboard-to-2mm-adapter
+
+This is an adapter board to plug allow 2mm headers to easily
+plug into a breadboard.
+
+This project is in early development and is not yet ready for use.
+
+License
+-------
+CERN Open Hardware Licence, version 1.2 or later.
+See LICENSE.txt for details.
