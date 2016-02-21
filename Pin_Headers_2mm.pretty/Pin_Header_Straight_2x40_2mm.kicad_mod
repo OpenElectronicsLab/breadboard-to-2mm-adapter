@@ -1,4 +1,4 @@
-(module Pin_Headers:Pin_Header_Straight_2x40_2mm_pitch (layer F.Cu) (tedit 56C9847B)
+(module Pin_Header_Straight_2x40_2mm (layer F.Cu) (tedit 56C9847B)
   (descr "Through hole pin header")
   (tags "pin header")
   (fp_text reference REF** (at 0 -5.1) (layer F.SilkS)
