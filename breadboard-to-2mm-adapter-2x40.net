@@ -1,7 +1,7 @@
 (export (version D)
   (design
-    (source /home/eric/src/breadboard-to-2mm-adapter/breadboard-to-2mm-adapter.sch)
-    (date "Sun Feb 21 14:02:07 2016")
+    (source /home/eric/src/breadboard-to-2mm-adapter/breadboard-to-2mm-adapter-2x40.sch)
+    (date "Sun Feb 21 15:04:16 2016")
     (tool "Eeschema 4.0.2-4+6225~38~ubuntu14.04.1-stable")
     (sheet (number 1) (name /) (tstamps /)
       (title_block
@@ -9,7 +9,7 @@
         (company)
         (rev)
         (date)
-        (source breadboard-to-2mm-adapter.sch)
+        (source breadboard-to-2mm-adapter-2x40.sch)
         (comment (number 1) (value ""))
         (comment (number 2) (value ""))
         (comment (number 3) (value ""))
